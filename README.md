@@ -9,16 +9,10 @@ This is a Python program that solves a maze using a simple breadth-first search 
 2. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/maze-solver.git
+   git clone https://github.com/sdshah09/Shortest_Path_Finder.git
    ```
 
-3. Navigate to the project directory:
-
-   ```
-   cd maze-solver
-   ```
-
-4. Run the program using the `wrapper`:
+3. Run the program using the `wrapper`:
 
    ```
    python maze_solver.py
@@ -26,7 +20,7 @@ This is a Python program that solves a maze using a simple breadth-first search 
 
    The maze solver will start, and you'll see the process of finding the path from the start ("O") to the end ("X") in the terminal.
 
-5. Press any key to exit the program after it finds the path.
+4. Press any key to exit the program after it finds the path.
 
 ## Maze Representation
 
