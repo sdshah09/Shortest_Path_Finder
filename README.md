@@ -15,7 +15,7 @@ This is a Python program that solves a maze using a simple breadth-first search 
 3. Run the program using the `wrapper`:
 
    ```
-   python maze_solver.py
+   python3 Path_Finder.py
    ```
 
    The maze solver will start, and you'll see the process of finding the path from the start ("O") to the end ("X") in the terminal.
